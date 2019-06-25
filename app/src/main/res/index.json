@@ -1,0 +1,45 @@
+{
+  "code": 0,
+  "message": "OK",
+  "total": 100,
+  "page_size": 4,
+  "data": [
+    {
+      "goodsId": 0,
+      "spanSize": 4,
+      "banners":[
+        "http://imgsrc.baidu.com/baike/pic/item/342ac65c10385343e23cf54c9113b07ecb8088ef.jpg",
+        "http://imgsrc.baidu.com/baike/pic/item/342ac65c10385343e23cf54c9113b07ecb8088ef.jpg",
+        "http://pic.58pic.com/58pic/huace/00/06/74/00/52aa5e5b124cd.jpg"
+      ]
+    },
+    {
+      "goodsId": 1,
+      "text": "测试描述1",
+      "imageUrl": "http://pic.58pic.com/58pic/12/20/75/63S58PICvgT.jpg",
+      "spanSize": 4
+    },
+    {
+      "goodsId": 2,
+      "text": "测试描述2",
+      "imageUrl": "http://ec4.images-amazon.com/images/I/61Y4mk8UpYL._SL1500_.jpg",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 3,
+      "text": "测试描述3",
+      "imageUrl": "http://img003.hc360.cn/m8/M06/2A/1A/wKhQpVYkPWeEbWn7AAAAAAHmpus944.jpg",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 4,
+      "imageUrl": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1799752519,3820027761&fm=27&gp=0.jpg",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 5,
+      "imageUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1554469625,4217270762&fm=27&gp=0.jpg",
+      "spanSize": 2
+    }
+  ]
+}

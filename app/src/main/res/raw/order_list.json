@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": [
+    {
+      "id": 1,
+      "thumb": "https://pic1.zhimg.com/da8e974dc_xl.jpg",
+      "title": "商品 1",
+      "price": 1.00,
+      "time": "2018-1-1"
+    },{
+      "id": 2,
+      "thumb": "https://pic1.zhimg.com/da8e974dc_xl.jpg",
+      "title": "商品 2",
+      "price": 3.00,
+      "time": "2018-1-1"
+    },{
+      "id": 3,
+      "thumb": "https://pic1.zhimg.com/da8e974dc_xl.jpg",
+      "title": "商品 3",
+      "price": 2.00,
+      "time": "2018-1-1"
+    }
+  ]
+}

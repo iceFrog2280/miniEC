@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "message": "OK",
+  "total": 100,
+  "page_size": 4,
+  "data": [
+    {
+      "goodsId": 11,
+      "text": "测试描述1分页",
+      "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/41dIWc0JN8L._AC_SS150_.jpg",
+      "spanSize": 4
+    },
+    {
+      "goodsId": 12,
+      "text": "测试描述2分页",
+      "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51waT9wvToL._AC_SS150_.jpg",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 13,
+      "text": "测试描述3分页",
+      "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/518-iZTeGXL._AC_SS150_.jpg",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 14,
+      "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/41tVZ4UHi3L._AC_SS150_.jpg",
+      "spanSize": 2
+    },
+    {
+      "goodsId": 15,
+      "imageUrl": "https://images-cn.ssl-images-amazon.com/images/I/51QGN4AY-ML._AC_SS150_.jpg",
+      "spanSize": 2
+    }
+  ]
+}

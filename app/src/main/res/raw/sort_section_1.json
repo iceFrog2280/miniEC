@@ -1,0 +1,59 @@
+{
+  "code": 0,
+  "message": "OK",
+  "data": [
+    {
+      "id": 1,
+      "section": "标题1",
+      "goods":[
+        {
+          "goods_id": 1,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/51L9thR8%2BrL._AC_SS150_.jpg",
+          "goods_name": "品牌1"
+        },{
+          "goods_id": 2,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/31UdSfGyHwL._AC_SS150_.jpg",
+          "goods_name": "品牌2"
+        },{
+          "goods_id": 3,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/41xjCFw58UL._AC_SS150_.jpg",
+          "goods_name": "品牌3"
+        },{
+          "goods_id": 4,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/41zaccJgu0L._AC_SS150_.jpg",
+          "goods_name": "品牌4"
+        }
+      ]
+    },{
+      "id": 2,
+      "section": "标题2",
+      "goods":[
+        {
+          "goods_id": 1,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/51BtAVr1idL._AC_SS150_.jpg",
+          "goods_name": "品牌1"
+        },{
+          "goods_id": 2,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/51StOG1F4XL._AC_SS150_.jpg",
+          "goods_name": "品牌2"
+        },{
+          "goods_id": 3,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/5123SEbVyXL._AC_SS150_.jpg",
+          "goods_name": "品牌3"
+        },{
+          "goods_id": 4,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/51U8kV196zL._AC_SS150_.jpg",
+          "goods_name": "品牌4"
+        },{
+          "goods_id": 5,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/41OFsAz290L._AC_SS150_.jpg",
+          "goods_name": "品牌5"
+        },{
+          "goods_id": 6,
+          "goods_thumb": "https://images-cn.ssl-images-amazon.com/images/I/51nATISCMQL._AC_SS150_.jpg",
+          "goods_name": "品牌6"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="excludedDirectories">
+      <list>
+        <option value="$PROJECT_DIR$/app/build" />
+        <option value="$PROJECT_DIR$/gradle" />
+        <option value="$PROJECT_DIR$/latte-annotations/build" />
+        <option value="$PROJECT_DIR$/latte-compiler/build" />
+        <option value="$PROJECT_DIR$/latte-core/build" />
+        <option value="$PROJECT_DIR$/latte-ec/build" />
+        <option value="$PROJECT_DIR$/latte_ui/build" />
+      </list>
+    </option>
+  </component>
+</project>

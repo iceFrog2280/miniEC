@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>test Document</title>
+</head>
+<body>
+<h1>这是测试文件</h1>
+<button id = "test">测试事件</button>
+<button id = "share">分享到</button>
+<button id = "reset">重置</button>
+<script type = "text/javascript">
+    // noinspection JSUnusedLocalSymbols
+    function nativeCall(){
+        alert('调用成功');
+    }
+
+    document.getElementById('test').onclick = function(){
+        var command = {
+            'action' : 'test'
+        };
+        latte.event(JSON.stringify(command));
+    };
+    document.getElementById('share').onclick = function(){
+        var command = {
+            'action': 'share',
+            'params' : {
+                'title' : '标题',
+                'test' : '描述',
+                'url' : 'https://www.baidu.com',
+                'imageUrl' : 'wu'
+            }
+        };
+        latte.event(JSON.stringify(command));
+    };
+    document.getElementById('reset').onclick = function(){
+        var command = {
+            'action' : 'reset'
+        };
+        latte.event(JSON.stringify(command));
+    };
+</script>
+</body>
+</html>
